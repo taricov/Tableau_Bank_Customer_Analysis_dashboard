@@ -2,5 +2,5 @@
 
 A Tableau **dashboard** of bank customers analysis that summarizes crucial ***KPIs*** and sheds light on the potential. <br/>
 
-![A Pie Chart!](./main/Bank_dashBoard.png)
+![Bank Customers Dashboard](Bank_dashBoard.png)
 
